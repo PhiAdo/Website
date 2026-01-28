@@ -1,19 +1,21 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "Philippa Adolf"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: "#publications"
+      - href: about.qmd
+        text: About me
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
         text: Publications
-      - href: "#talks"
+      - href: talks.qmd
         text: Talks
-      - href: "#contact"
-        text: Contact
 
 format:
   html:

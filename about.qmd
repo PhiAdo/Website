@@ -1,9 +1,34 @@
 ---
-title: "About"
+title: "About me"
 ---
 
-About this site
+::: content-container
 
-```{r}
-1 + 1
-```
+## Research interests {.section-title}
+
+- Iberoromance (Pronominal) Syntax
+- Differential object marking
+- Interface phenomena
+- Second Language Acquisition
+- Statistic Data Modelling
+- Empirical Methods: Experimental and Corpus Linguistics
+- Psycholinguistics
+- NLP and Machine Learning
+
+## Personal interests
+
+Outside of research, I enjoy photography and travelling, especially when it gives me the chance to engage with new languages and cultures. I like spending time outdoors hiking, running, or road biking, and in colder months I regularly go swimming, bouldering and climbing. 
+
+## CV {.section-title}
+
+[Download CV (PDF)](/material/cv_typst.pdf){.btn .btn-primary}
+
+<iframe src="material/cv_typst.pdf" width="100%" height="1000" style="border: 0;"></iframe>
+
+:::
+
+::: footer-content
+
+© Philippa Adolf · University of Vienna
+
+:::

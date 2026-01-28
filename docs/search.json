@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Philippa Adolf",
     "section": "",
-    "text": "Department of Romance Linguistics, University of Vienna   Spitalgasse 2, Hof 8 (Campus), 1090 Wien   philippa.adolf@univie.ac.at   OSF   GitHub   LinkedIn   ResearchGate   ORCID"
+    "text": "Department of Romance Linguistics, University of Vienna   Spitalgasse 2, Hof 8 (Campus), 1090 Wien \n philippa.adolf@univie.ac.at \n LinkedIn \n\n\n\n\nLinguist specialising in the syntax–semantics of Ibero-Romance pronominal systems, with a focus on the (non-)realisation of direct object pronouns. Trained in corpus and experimental methods, and interested in large-scale statistical analysis of linguistic data to model language processing.\n\n\n\n\n\nInstitut für Romanistik, Universität Wien (Vienna, Austria)\n\nSubproject 07 Ibero-Romance pronominal systems\nSFB Language between Redundancy and Deficiency\n\nCreating experiments (acceptability, elicitation, eye tracking) for data collection in Spain, Portugal, Brazil, and Argentina"
   },
   {
     "objectID": "index.html#research-interests",
@@ -37,8 +37,85 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Iberoromance (Pronominal) Syntax\nDifferential object marking\nInterface phenomena\nSecond Language Acquisition\nStatistic Data Modelling\nEmpirical Methods: Experimental and Corpus Linguistics\nPsycholinguistics\nNLP and Machine Learning\n\n\n\n\nOutside of research, I enjoy photography and travelling, especially when it gives me the chance to engage with new languages and cultures. I like spending time outdoors hiking, running, or road biking, and in colder months I regularly go swimming, bouldering and climbing.\n\n\n\nDownload CV (PDF)"
+  },
+  {
+    "objectID": "index.html#profile",
+    "href": "index.html#profile",
+    "title": "Philippa Adolf",
+    "section": "",
+    "text": "Linguist specialising in the syntax–semantics of Ibero-Romance pronominal systems, with a focus on the (non-)realisation of direct object pronouns. Trained in corpus and experimental methods, and interested in large-scale statistical analysis of linguistic data to model language processing."
+  },
+  {
+    "objectID": "index.html#current-position",
+    "href": "index.html#current-position",
+    "title": "Philippa Adolf",
+    "section": "",
+    "text": "Institut für Romanistik, Universität Wien (Vienna, Austria)\n\nSubproject 07 Ibero-Romance pronominal systems\nSFB Language between Redundancy and Deficiency\n\nCreating experiments (acceptability, elicitation, eye tracking) for data collection in Spain, Portugal, Brazil, and Argentina"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Differential object marking in the L2 Spanish of L1 German speakers: A corpus-based analysis (2024)\nIn: Jonas Grünke, Andrea Pešková & Christoph Gabriel (eds.), Spanish as a second and third language: Approaching the linguistics-didactics interface, 39–69. Berlin: Frank & Timme GmbH.\nDOI: 10.57088/978-3-7329-8970-6_3\n\n\n\nAbstract\n\n\nEl presente estudio contribuye a la investigación de la adquisición\ndel marcado diferencial de objeto (ingl. differential object marking,\nDOM) del español como segunda lengua (L2), evaluando cuantitativamente\nel uso escrito del DOM por hablantes nativos de español europeo y por\nparte de hablantes de alemán como lengua primera (L1). Mediante un\nenfoque basado en corpus, se analizan más de 100 textos escritos en\ntérminos de la alternancia a/∅ con objetos directos nominales,\nevaluando un conjunto de predictores semánticos y de estructura de la\ninformación utilizando un análisis multifactorial basado en\nclasificaciones de bosques aleatorios. Con este enfoque se investiga\nhasta qué punto y en función de qué factores el grupo de hablantes L2\ndifiere del grupo nativo en su uso del DOM.\n\n\n\n\nBibTeX Citation\n\n@incollection{adolfDifferentialObjectMarking2024,\n  location = {Berlin},\n  title = {Differential object marking in the L2 Spanish of L1 German speakers: A corpus-based analysis},\n  isbn = {978-3-7329-8970-6},\n  url = {https://doi.org/10.57088/978-3-7329-8970-6_3},\n  pages = {39--69},\n  booktitle = {Spanish as a second and third language: Approaching the linguistics-didactics interface},\n  publisher = {Frank \\& Timme {GmbH}},\n  author = {Adolf, Philippa},\n  editor = {Grünke, Jonas and Pešková, Andrea and Gabriel, Christoph},\n  date = {2024},\n  doi = {10.57088/978-3-7329-8970-6_3},\n}\n\n\nDownload presentation (PDF)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "OSF \n GitHub \n ResearchGate \n ORCID"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "in Contemporary Peninsular Spanish\n###\nDate: 2026\nVenue: Kandersteg, Switzerland Event: Alpes 6 (Universität Zürich)\nThis talk focuses on the construction of a corpus specifically designed for the analysis of null objects in Spanish. The study addresses criteria for data selection, annotation, and corpus exploitation, with the aim of identifying systematic patterns of direct object omission and assessing the linguistic factors that condition their distribution.\nDownload presentation (PDF)\n\n\n\n\n\n\n\nDate: 2025\nVenue: Universitat de les Illes Balears (Palma, Spain)\nEvent: Null Objects from a Crosslinguistic and Developmental Perspective\nThis poster presentation gives insights into an ongoing diachronic corpus study of direct object omission in Spanish, based on a newly compiled and annotated corpus of texts from the 12th to the 18th century. It investigates whether verb classes and lexical semantics can predict patterns of null object realization, and evaluates these findings in relation to clitic doubling and existing diachronic accounts.\nDownload presentation (PDF)\n\n\n\n\nDate: 2025\nVenue: Bergische Universität Wuppertal (Wuppertal, Germany)\nEvent: Invited Talk at Jornadas Lingüísticas BUW\nThis talk presents a corpus-based study of the acquisition of Differential Object Marking (DOM) in L2 Spanish by L1 German speakers, comparing learner and native usage. Using multifactorial random forest analyses, it examines the relative impact of semantic, pragmatic, and verbal factors on DOM realisation and omission.\nDownload presentation (PDF)\n\n\n\nDate: 2025\nVenue: University of Hamburg (Hamburg, Germany)\nEvent: Deutscher Hispanistentag: Sektion zum Status des Dativs\nThis talk investigates clitic doubling and null objects in Spanish from a diachronic corpus perspective, critically evaluating the Object Agreement Cycle. Drawing on historical data from multiple varieties, it shows that null objects precede and compete with clitic doubling, challenging strictly sequential accounts of object realisation.\nDownload presentation (PDF)\n\n\n\n© Philippa Adolf · University of Vienna"
+  },
+  {
+    "objectID": "index.html#contact-info",
+    "href": "index.html#contact-info",
+    "title": "Philippa Adolf",
+    "section": "",
+    "text": "Department of Romance Linguistics, University of Vienna   Spitalgasse 2, Hof 8 (Campus), 1090 Wien \n philippa.adolf@univie.ac.at \n LinkedIn"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About me",
+    "section": "",
+    "text": "Iberoromance (Pronominal) Syntax\nDifferential object marking\nInterface phenomena\nSecond Language Acquisition\nStatistic Data Modelling\nEmpirical Methods: Experimental and Corpus Linguistics\nPsycholinguistics\nNLP and Machine Learning"
+  },
+  {
+    "objectID": "about.html#cv",
+    "href": "about.html#cv",
+    "title": "About me",
+    "section": "",
+    "text": "Download CV (PDF)"
+  },
+  {
+    "objectID": "about.html#personal-interests",
+    "href": "about.html#personal-interests",
+    "title": "About me",
+    "section": "",
+    "text": "Outside of research, I enjoy photography and travelling, especially when it gives me the chance to engage with new languages and cultures. I like spending time outdoors hiking, running, or road biking, and in colder months I regularly go swimming, bouldering and climbing."
+  },
+  {
+    "objectID": "research.html#ressources",
+    "href": "research.html#ressources",
+    "title": "Research",
+    "section": "",
+    "text": "OSF \n GitHub \n ResearchGate \n ORCID"
+  },
+  {
+    "objectID": "talks.html#recent-talks",
+    "href": "talks.html#recent-talks",
+    "title": "Talks",
+    "section": "",
+    "text": "in Contemporary Peninsular Spanish\n###\nDate: 2026\nVenue: Kandersteg, Switzerland Event: Alpes 6 (Universität Zürich)\nThis talk focuses on the construction of a corpus specifically designed for the analysis of null objects in Spanish. The study addresses criteria for data selection, annotation, and corpus exploitation, with the aim of identifying systematic patterns of direct object omission and assessing the linguistic factors that condition their distribution.\nDownload presentation (PDF)\n\n\n\n\n\n\n\nDate: 2025\nVenue: Universitat de les Illes Balears (Palma, Spain)\nEvent: Null Objects from a Crosslinguistic and Developmental Perspective\nThis poster presentation gives insights into an ongoing diachronic corpus study of direct object omission in Spanish, based on a newly compiled and annotated corpus of texts from the 12th to the 18th century. It investigates whether verb classes and lexical semantics can predict patterns of null object realization, and evaluates these findings in relation to clitic doubling and existing diachronic accounts.\nDownload presentation (PDF)\n\n\n\n\nDate: 2025\nVenue: Bergische Universität Wuppertal (Wuppertal, Germany)\nEvent: Invited Talk at Jornadas Lingüísticas BUW\nThis talk presents a corpus-based study of the acquisition of Differential Object Marking (DOM) in L2 Spanish by L1 German speakers, comparing learner and native usage. Using multifactorial random forest analyses, it examines the relative impact of semantic, pragmatic, and verbal factors on DOM realisation and omission.\nDownload presentation (PDF)\n\n\n\nDate: 2025\nVenue: University of Hamburg (Hamburg, Germany)\nEvent: Deutscher Hispanistentag: Sektion zum Status des Dativs\nThis talk investigates clitic doubling and null objects in Spanish from a diachronic corpus perspective, critically evaluating the Object Agreement Cycle. Drawing on historical data from multiple varieties, it shows that null objects precede and compete with clitic doubling, challenging strictly sequential accounts of object realisation.\nDownload presentation (PDF)\n\n\n\n© Philippa Adolf · University of Vienna"
   }
 ]
