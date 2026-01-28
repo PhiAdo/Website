@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - material/**
 
 website:
   title: "Philippa Adolf"
@@ -21,3 +23,6 @@ format:
   html:
     theme: styles.scss
     toc: false
+
+
+
