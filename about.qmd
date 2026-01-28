@@ -21,7 +21,8 @@ Outside of research, I enjoy photography and travelling, especially when it give
 
 ## CV {.section-title}
 
-[Download CV (PDF)](/material/cv_typst.pdf){.btn .btn-primary}
+[Download CV (PDF)](material/CV_typst.pdf){.btn .btn-primary}
+
 
 <iframe
   src="material/CV_typst.pdf"
