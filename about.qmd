@@ -10,31 +10,23 @@ title: "About me"
 - Differential object marking
 - Interface phenomena
 - Second Language Acquisition
-- Statistic Data Modelling
-- Empirical Methods: Experimental and Corpus Linguistics
+- Statistical data modelling
+- Empirical methods: experimental and corpus linguistics
 - Psycholinguistics
 - NLP and Machine Learning
 
 ## Personal interests
 
-Outside of research, I enjoy photography and travelling, especially when it gives me the chance to engage with new languages and cultures. I like spending time outdoors hiking, running, or road biking, and in colder months I regularly go swimming, bouldering and climbing. 
+Outside of research, I enjoy photography and travelling, especially when it gives me the chance to engage with new languages and cultures. I like spending time outdoors hiking, running, or road biking, and in colder months I regularly go swimming, bouldering and climbing.
 
 ## CV {.section-title}
 
 [Download CV (PDF)](material/CV_typst.pdf){.btn .btn-primary}
 
-
-<iframe
-  src="material/CV_typst.pdf"
-  width="100%"
-  height="1000"
-  style="border:0;">
-</iframe>
+<iframe src="material/CV_typst.pdf" width="100%" height="1000" style="border:0;"></iframe>
 
 :::
 
 ::: footer-content
-
 © Philippa Adolf · University of Vienna
-
 :::
