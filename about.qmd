@@ -20,7 +20,7 @@ title: "About me"
 
 ## CV {.section-title}
 
-[Download CV (PDF)](material/CV_typst.pdf){.btn .btn-primary}
+[Download CV (PDF)](material/cv_typst.pdf){.btn .btn-primary}
 
 <iframe src="material/CV_typst.pdf" width="100%" height="1000" style="border:0;"></iframe>
 
