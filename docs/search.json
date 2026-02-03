@@ -14,13 +14,6 @@
     "text": "Iberoromance (Pronominal) Syntax\nDifferential object marking\nInterface phenomena\nSecond Language Acquisition\nStatistical data modelling\nEmpirical methods: experimental and corpus linguistics\nPsycholinguistics\nNLP and Machine Learning"
   },
   {
-    "objectID": "about.html#personal-interests",
-    "href": "about.html#personal-interests",
-    "title": "About me",
-    "section": "",
-    "text": "Outside of research, I enjoy photography and travelling, especially when it gives me the chance to engage with new languages and cultures. I like spending time outdoors hiking, running, or road biking, and in colder months I regularly go swimming, bouldering and climbing."
-  },
-  {
     "objectID": "about.html#cv",
     "href": "about.html#cv",
     "title": "About me",
@@ -89,12 +82,5 @@
     "title": "Publications",
     "section": "",
     "text": "Differential object marking in the L2 Spanish of L1 German speakers: A corpus-based analysis (2024)\nIn: Jonas Grünke, Andrea Pešková & Christoph Gabriel (eds.), Spanish as a second and third language: Approaching the linguistics-didactics interface, 39–69. Berlin: Frank & Timme GmbH.\nDOI: 10.57088/978-3-7329-8970-6_3\n\n\n\nAbstract\n\n\nEl presente estudio contribuye a la investigación de la adquisición\ndel marcado diferencial de objeto (ingl. differential object marking,\nDOM) del español como segunda lengua (L2), evaluando cuantitativamente\nel uso escrito del DOM por hablantes nativos de español europeo y por\nparte de hablantes de alemán como lengua primera (L1). Mediante un\nenfoque basado en corpus, se analizan más de 100 textos escritos en\ntérminos de la alternancia a/∅ con objetos directos nominales,\nevaluando un conjunto de predictores semánticos y de estructura de la\ninformación utilizando un análisis multifactorial basado en\nclasificaciones de bosques aleatorios. Con este enfoque se investiga\nhasta qué punto y en función de qué factores el grupo de hablantes L2\ndifiere del grupo nativo en su uso del DOM.\n\n\n\n\nBibTeX Citation\n\n@incollection{adolfDifferentialObjectMarking2024,\n  location = {Berlin},\n  title = {Differential object marking in the L2 Spanish of L1 German speakers: A corpus-based analysis},\n  isbn = {978-3-7329-8970-6},\n  url = {https://doi.org/10.57088/978-3-7329-8970-6_3},\n  pages = {39--69},\n  booktitle = {Spanish as a second and third language: Approaching the linguistics-didactics interface},\n  publisher = {Frank \\& Timme {GmbH}},\n  author = {Adolf, Philippa},\n  editor = {Grünke, Jonas and Pešková, Andrea and Gabriel, Christoph},\n  date = {2024},\n  doi = {10.57088/978-3-7329-8970-6_3},\n}\n\n\nDownload article (PDF)"
-  },
-  {
-    "objectID": "about.html#personal-interests-1",
-    "href": "about.html#personal-interests-1",
-    "title": "About me",
-    "section": "",
-    "text": "Outside of research, I enjoy photography and travelling, especially when it gives me the chance to engage with new languages and cultures. I like spending time outdoors hiking, running, or road biking, and in colder months I regularly go swimming, bouldering and climbing."
   }
 ]
