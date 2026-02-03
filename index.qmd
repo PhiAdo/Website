@@ -1,0 +1,39 @@
+---
+title: "Philippa Adolf"
+subtitle: "Research assistant and doctoral candidate"
+---
+
+::: content-container
+
+## Contact info {.section-title}
+::: contact-info
+{{< iconify hugeicons:university >}} [Department of Romance Linguistics, University of Vienna](https://ucrisportal.univie.ac.at/de/persons/philippa-adolf) <br>
+{{< iconify entypo:address >}} Spitalgasse 2, Hof 8 (Campus), 1090 Wien <br>
+
+{{< iconify ic:outline-email >}} philippa.adolf\@univie.ac.at <br>
+
+{{< iconify mdi:linkedin >}} [LinkedIn](https://www.linkedin.com/in/philippa-adolf-66a379268/) <br>
+:::
+
+## Profile {.section-title}
+
+Linguist specialising in the syntax–semantics of Ibero-Romance pronominal systems, with a focus on the (non-)realisation of direct object pronouns. Trained in corpus and experimental methods, and interested in large-scale statistical analysis of linguistic data to model language processing.
+
+## Current position {.section-title}
+
+::: publication-item
+### Project Researcher (prae-doc) (2024–present)  
+*Institut für Romanistik, Universität Wien (Vienna, Austria)*
+
+- Subproject 07 *Ibero-Romance pronominal systems* 
+- SFB [Language between Redundancy and Deficiency](https://sfb-redundancy-deficiency.uni-graz.at/en/)  
+- Creating experiments (acceptability, elicitation, eye tracking) for data collection in Spain, Portugal, Brazil, and Argentina
+:::
+
+:::
+
+::: footer-content
+
+© Philippa Adolf · University of Vienna
+
+:::
