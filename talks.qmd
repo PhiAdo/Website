@@ -7,12 +7,10 @@ title: "Talks"
 ::: content-container
 
 ::: talk-item
-### Predicting Direct Object Omission - A Quantitative Approach to Direct Object Realisation Patterns
-in Contemporary Peninsular Spanish  
-### 
+### Predicting Direct Object Omission - A Quantitative Approach to Direct Object Realisation Patterns in Contemporary Peninsular Spanish  
 
 **Date:** 2026  
-**Venue:** Kandersteg, Switzerland
+**Venue:** Kandersteg (Switzerland)<br>
 **Event:** Alpes 6 (Universität Zürich)
 
 This talk focuses on the construction of a corpus specifically designed for the analysis of null objects in Spanish. The study addresses criteria for data selection, annotation, and corpus exploitation, with the aim of identifying systematic patterns of direct object omission and assessing the linguistic factors that condition their distribution.
@@ -21,8 +19,7 @@ This talk focuses on the construction of a corpus specifically designed for the 
 :::
 
 ::: talk-item
-### Verb-driven Patterns of Object Omission in the History of Spanish:  
-### A Corpus-based Analysis
+### Verb-driven Patterns of Object Omission in the History of Spanish: A Corpus-based Analysis
 
 **Date:** 2025  
 **Venue:** Universitat de les Illes Balears (Palma, Spain)  

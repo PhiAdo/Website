@@ -15,9 +15,8 @@ title: "About me"
 - Psycholinguistics
 - NLP and Machine Learning
 
-## Personal interests
+:::
 
-Outside of research, I enjoy photography and travelling, especially when it gives me the chance to engage with new languages and cultures. I like spending time outdoors hiking, running, or road biking, and in colder months I regularly go swimming, bouldering and climbing.
 
 ## CV {.section-title}
 
@@ -25,8 +24,21 @@ Outside of research, I enjoy photography and travelling, especially when it give
 
 <iframe src="material/CV_typst.pdf" width="100%" height="1000" style="border:0;"></iframe>
 
+
+
+::: {.grid}
+::: {.g-col-8}
+<br>
+<br>
+<br>
+<br>
+Outside of research, I enjoy photography and travelling.<br> 
+I also love spending time outdoors hiking, running, or <br> road biking, and in colder months I like to go swimming <br> and bouldering/climbing.
+
 :::
 
-::: footer-content
-© Philippa Adolf · University of Vienna
+
+::: {.g-col-4}
+![](material/PhilippaPortrait.png){width=250px}
 :::
+
