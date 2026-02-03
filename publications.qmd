@@ -50,7 +50,7 @@ title: "Publications"
 
 </details> 
 :::
-[Download article (PDF)](/material/Adolf_2024_DOMinL2Spanish.pdf){.btn .btn-primary}
+[Download articel (PDF)](/material/Adolf_2024_DOMinL2Spanish.pdf){.btn .btn-primary}
 :::
 
 :::
