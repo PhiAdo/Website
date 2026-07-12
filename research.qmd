@@ -1,7 +1,9 @@
 ---
-title: "Research"
+title: "Resources"
 ---
-## Ressources {.section-title}
+
+## Find my data, scripts, and further material here:
+
 ::: contact-info
 
 {{< iconify simple-icons:osf >}} [OSF](https://osf.io/wrq2a/) <br>

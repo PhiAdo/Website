@@ -1,39 +1,109 @@
 ---
-title: "Philippa Adolf"
-subtitle: "Research assistant and doctoral candidate"
+title: "Hi, there, welcome to my page!"
+page-layout: full
+title-block-banner: false
 ---
 
-::: content-container
+::: {.home-hero}
+::: {.home-hero-inner}
 
-## Contact info {.section-title}
-::: contact-info
-{{< iconify hugeicons:university >}} [Department of Romance Linguistics, University of Vienna](https://ucrisportal.univie.ac.at/de/persons/philippa-adolf) <br>
-{{< iconify entypo:address >}} Spitalgasse 2, Hof 8 (Campus), 1090 Wien <br>
+::: {.hero-main}
+<p class="eyebrow">Linguistics · University of Vienna</p>
 
-{{< iconify ic:outline-email >}} philippa.adolf\@univie.ac.at <br>
+# Philippa Adolf
 
-{{< iconify mdi:linkedin >}} [LinkedIn](https://www.linkedin.com/in/philippa-adolf-66a379268/) <br>
+<p class="hero-subtitle">
+Research assistant and doctoral candidate
+</p>
+
+<p class="hero-description">
+I am a linguist specialising in the syntax-semantics of Ibero-Romance pronominal systems through data-driven, quantitative research.
+
+</p>
+
+::: {.hero-actions}
+[Research](research.qmd){.btn .btn-primary}
+[Publications](publications.qmd){.btn .btn-outline-primary}
+[Download CV](material/cv_typst.pdf){.btn .btn-outline-primary}
+:::
 :::
 
-## Profile {.section-title}
+::: {.hero-side}
+<p class="hero-side-label">Current position</p>
 
-Linguist specialising in the syntax–semantics of Ibero-Romance pronominal systems, with a focus on the (non-)realisation of direct object pronouns. Trained in corpus and experimental methods, and interested in large-scale statistical analysis of linguistic data to model language processing.
+## Project Researcher
 
-## Current position {.section-title}
+**Department of Romance Studies**  
+University of Vienna
 
-::: publication-item
-### Project Researcher (prae-doc) (2024–present)  
-*Institut für Romanistik, Universität Wien (Vienna, Austria)*
+Prae-doctoral researcher in Subproject 07,  
+*Ibero-Romance pronominal systems*, within the SFB  
+[Language between Redundancy and Deficiency](https://sfb-redundancy-deficiency.uni-graz.at/en/).
+:::
 
-- Subproject 07 *Ibero-Romance pronominal systems* 
-- SFB [Language between Redundancy and Deficiency](https://sfb-redundancy-deficiency.uni-graz.at/en/)  
-- Creating experiments (acceptability, elicitation, eye tracking) for data collection in Spain, Portugal, Brazil, and Argentina
+:::
+:::
+
+::: {.content-container .home-content}
+
+::: {.home-grid}
+
+::: {.home-profile}
+
+## Research profile {.section-title}
+
+My current research investigates how syntactic, semantic, and discourse-related factors affect direct object realisation in Spanish.
+
+When it comes to methods, I combine corpus-based and experimental approaches, such as custom corpus compilation, acceptability judgements, elicitation, and eye-tracking. Drawing on natural language processing methods and statistical modelling, I analyse linguistic variation quantitavely with the goal of 
+identifying common patterns across speakers. 
+
+More broadly, I am interested in how empirical linguistic data can be used to explain language variation, second language acquisition, and general linguistic processing.
+
+:::
+
+::: {.contact-card}
+<p class="card-label">Contact</p>
+
+{{< iconify hugeicons:university >}}
+[Department of Romance Studies](https://ucrisportal.univie.ac.at/de/persons/philippa-adolf)
+
+{{< iconify entypo:address >}}
+Spitalgasse 2, Hof 8  
+1090 Vienna, Austria
+
+{{< iconify ic:outline-email >}}
+[philippa.adolf@univie.ac.at](mailto:philippa.adolf@univie.ac.at)
+
+{{< iconify mdi:linkedin >}}
+[LinkedIn](https://www.linkedin.com/in/philippa-adolf-66a379268/)
 :::
 
 :::
 
-::: footer-content
+## Current research activities {.section-title}
 
-© Philippa Adolf · University of Vienna
+::: {.position-card}
+::: {.position-heading}
+### SFB Language between Redundancy and Deficiency
+
+<span class="position-date">2024 – present</span>
+:::
+
+<p class="position-institution">
+Subproject 07 · Deficiency and Redundancy in Ibero-Romance pronominal systems
+</p>
+
+My current work examines patterns of pronominal object realisation using
+experimental and corpus-linguistic evidence from Spain, Portugal, Brazil
+and Argentina.
+
+The project includes the development and implementation of acceptability,
+elicitation and eye-tracking experiments, as well as the statistical
+analysis of cross-linguistic and cross-varietal data.
+
+[Learn more about my research →](research.qmd){.text-link}
+:::
+
+
 
 :::

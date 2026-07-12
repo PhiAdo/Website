@@ -1,44 +1,73 @@
 ---
-title: "About me"
+title: "About"
 ---
 
-::: content-container
+::: {.content-container}
 
-## Research interests {.section-title}
+## Here are (some of) my general research interests {.section-title}
 
-- Iberoromance (Pronominal) Syntax
+::: {.about-grid}
+
+::: {.about-text}
+
+::: {.interest-list}
+- Ibero-Romance pronominal syntax
 - Differential object marking
-- Interface phenomena
-- Second Language Acquisition
+- Syntax–semantics and syntax–discourse interfaces
+- Second-language acquisition
 - Statistical data modelling
-- Empirical methods: experimental and corpus linguistics
+- Experimental and corpus linguistics
 - Psycholinguistics
-- NLP and Machine Learning
+- Natural language processing
+- Forensic linguistics
+:::
 
 :::
 
-
-## CV {.section-title}
-
-[Download CV (PDF)](material/cv_typst.pdf){.btn .btn-primary}
-
-<iframe src="material/cv_typst.pdf" width="100%" height="1000" style="border:0;"></iframe>
-
-
-
-::: {.grid}
-::: {.g-col-8}
-<br>
-<br>
-<br>
-<br>
-Outside of research, I enjoy photography and travelling.<br> 
-I also love spending time outdoors hiking, running, or <br> road biking, and in colder months I like to go swimming <br> and bouldering/climbing.
+::: {.about-image}
+![](material/PhilippaPortrait.png){fig-alt="Portrait of Philippa Adolf"}
+:::
 
 :::
 
+## Here is (hopefully a current version of) my CV {.section-title}
 
-::: {.g-col-4}
-![](material/PhilippaPortrait.png){width=250px}
+[Download CV](material/cv_typst.pdf){.btn .btn-primary}
+
+<iframe
+  src="material/cv_typst.pdf"
+  width="80%"
+  height="600"
+  title="Curriculum vitae of Philippa Adolf"
+  class="cv-frame">
+</iframe>
+
+## Who I am beyond research... {.section-title}
+
+::: {.about-grid}
+
+::: {.about-text}
+
+Outside research, I’m usually happiest outdoors. 
+
+I love inline skating, running, and cycling along the Danube as well as hiking in the Alps. When the weather turns colder, I switch to swimming, bouldering, and skiing. 
+
+I also love photography and usually take my camera wherever I go.
+
+And yes, my favourite colour is green!
+
 :::
 
+::: {.photo-gallery}
+![](photos/biking.JPEG)
+![](photos/bouldering.jpg)
+![](photos/hiking.JPG)
+![](photos/photography.jpg)
+![](photos/brasil.JPG)
+![](photos/snow.jpeg)
+![](photos/viaferrata2.JPG)
+:::
+
+:::
+
+:::

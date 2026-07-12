@@ -2,9 +2,44 @@
 title: "Talks"
 ---
 
-## Recent Talks {.section-title}
 
 ::: content-container
+
+::: talk-item
+### Entre omisión y doblado – variación en la realización del objeto directo en español y portugués  
+
+**Date:** 2026  
+**Venue:** Graz (Austria)<br>
+**Event:** Tribuna Festival (Universität Graz)
+
+Presentation of null objects and clitic doubling as our phenomena of interest and the fieldwork experiments conducted in our subproject; discussion of the first results of our cross-variety null object experiments. 
+
+[Download presentation (PDF)](/material/tribuna.pdf){.btn .btn-primary}
+:::
+
+::: talk-item
+### Predicting null objects – a quantitative perspective on direct object realisation patterns in Peninsular Spanish  
+
+**Date:** 2026  
+**Venue:** Zürich (Switzerland)<br>
+**Event:** Linguistisches Kolloquium (Universität Zürich)
+
+Presentation of existing analyses of null objects in Peninsular Spanish and contextualisation in light of first empirical results from experiments and a corpus study (sampled from Youtube podcasts). Discussion of ellipsis approaches to Spanish object omission based on information-structural and pragmatic constraints. 
+
+[Download presentation (PDF)](/material/zürich.pdf){.btn .btn-primary}
+:::
+
+::: talk-item
+### Predicting Direct Object Omission - A Quantitative Approach to Direct Object Realisation Patterns in Contemporary Peninsular Spanish  
+
+**Date:** 2026  
+**Venue:** Kandersteg (Switzerland)<br>
+**Event:** Alpes 6 (Universität Zürich)
+
+This talk focuses on the construction of a corpus specifically designed for the analysis of null objects in Spanish. The study addresses criteria for data selection, annotation, and corpus exploitation, with the aim of identifying systematic patterns of direct object omission and assessing the linguistic factors that condition their distribution.
+
+[Download presentation (PDF)](/material/Alpes6_Kandersteg_PA.pdf){.btn .btn-primary}
+:::
 
 ::: talk-item
 ### Predicting Direct Object Omission - A Quantitative Approach to Direct Object Realisation Patterns in Contemporary Peninsular Spanish  
@@ -57,8 +92,4 @@ This talk investigates clitic doubling and null objects in Spanish from a diachr
 
 :::
 
-::: footer-content
 
-© Philippa Adolf · University of Vienna
-
-:::
