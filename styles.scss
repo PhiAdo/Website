@@ -5,7 +5,7 @@
 );
 
 $dark-green: #1F5D3A!default;
-$medium-green: #2D6A4F !default;
+$medium-green: #6C716F !default;
 $sage: #8FA99F !default;
 $warm-grey: #6C716F !default;
 $light-grey: #E5E8E6 !default;
@@ -21,7 +21,7 @@ $headings-font-family: 'Source Sans Pro', sans-serif !default;
 $headings-font-weight: 600 !default;
 
 $font-size-base: 1rem !default;
-$body-text-size: 0.95rem !default;
+$body-text-size: 1.2rem !default;
 $line-height-base: 1.5 !default;
 
 
@@ -468,14 +468,19 @@ summary {
   margin-bottom: 1.5rem;
 }
 
+/* About-page photo gallery */
+
 .photo-gallery {
+  grid-column: 1 / -1;
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(8, minmax(0, 1fr));
   gap: 0.45rem;
+  width: 100%;
 }
 
-.photo-gallery p {
-  margin: 0;
+/* Remove Quarto's paragraph wrapper from the grid layout */
+.photo-gallery > p {
+  display: contents;
 }
 
 .photo-gallery img {

@@ -1,5 +1,6 @@
 ---
 title: "Resources"
+page-layout: full
 ---
 
 ## Find my data, scripts, and further material here:

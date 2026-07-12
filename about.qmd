@@ -1,5 +1,6 @@
 ---
 title: "About"
+page-layout: full
 ---
 
 ::: {.content-container}
@@ -13,13 +14,14 @@ title: "About"
 ::: {.interest-list}
 - Ibero-Romance pronominal syntax
 - Differential object marking
-- Syntax–semantics and syntax–discourse interfaces
 - Second-language acquisition
 - Statistical data modelling
-- Experimental and corpus linguistics
-- Psycholinguistics
 - Natural language processing
 - Forensic linguistics
+- Experimental and corpus linguistics
+- Psycholinguistics
+- Syntax–semantics and syntax–discourse interfaces
+
 :::
 
 :::
@@ -37,25 +39,20 @@ title: "About"
 <iframe
   src="material/cv_typst.pdf"
   width="80%"
-  height="600"
+  height="100"
   title="Curriculum vitae of Philippa Adolf"
   class="cv-frame">
 </iframe>
 
-## Who I am beyond research... {.section-title}
+## Beyond research... {.section-title}
 
 ::: {.about-grid}
 
 ::: {.about-text}
 
-Outside research, I’m usually happiest outdoors. 
+Outside research, I’m usually happiest outdoors. I love inline skating, running, and cycling along the Danube as well as hiking in the Alps. When the weather turns colder, I switch to swimming, bouldering, and skiing. 
 
-I love inline skating, running, and cycling along the Danube as well as hiking in the Alps. When the weather turns colder, I switch to swimming, bouldering, and skiing. 
-
-I also love photography and usually take my camera wherever I go.
-
-And yes, my favourite colour is green!
-
+I'm also a huge fan of photography and usually take my camera wherever I go.
 :::
 
 ::: {.photo-gallery}
