@@ -39,7 +39,7 @@ page-layout: full
 <iframe
   src="material/cv_typst.pdf"
   width="80%"
-  height="100"
+  height="800"
   title="Curriculum vitae of Philippa Adolf"
   class="cv-frame">
 </iframe>
